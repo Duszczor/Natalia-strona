@@ -1,0 +1,14 @@
+{
+  "name": "natalia-dietetyk",
+  "version": "1.0.0",
+  "description": "Strona Natalii Kochanek",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Dusio",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
